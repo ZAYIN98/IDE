@@ -1,5 +1,5 @@
 # IDE for Student Assesment Platform
-[![Judge0 IDE Screenshot](https://prnt.sc/12jvys8?raw=true)](https://sap-cui.com)
+[![Judge0 IDE Screenshot](https://i.ibb.co/Z2vt7bz/demo.png?raw=true)](https://sap-cui.com)
 
 
 ## About
